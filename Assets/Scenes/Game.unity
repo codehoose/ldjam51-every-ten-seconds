@@ -571,6 +571,8 @@ MonoBehaviour:
   scenes:
   - {fileID: 4900000, guid: 1d41bc9131fd35640972f91555d871dd, type: 3}
   - {fileID: 4900000, guid: ead1dd1edf5ea66458aa70c2589445d3, type: 3}
+  - {fileID: 4900000, guid: 5220d65db7a0348468ea7ada1d37cf19, type: 3}
+  - {fileID: 4900000, guid: 3d7f6351162a9b3448162996337a38b8, type: 3}
 --- !u!483693784 &852894376
 TilemapRenderer:
   m_ObjectHideFlags: 0

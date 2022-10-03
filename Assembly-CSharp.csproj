@@ -58,9 +58,9 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Tilemap\MapSerialization.cs" />
     <Compile Include="Assets\Scripts\Gameplay\Flymo.cs" />
+    <Compile Include="Assets\Scripts\Housekeeping\StartGame.cs" />
     <Compile Include="Assets\Scripts\Tilemap\Tilemapper.cs" />
     <Compile Include="Assets\Scripts\Housekeeping\WaitAndLoad.cs" />
-    <Compile Include="Assets\Scripts\Housekeeping\StartGame.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
